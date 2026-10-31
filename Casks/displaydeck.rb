@@ -1,7 +1,7 @@
 # Template for the cask in rahgurung/homebrew-tap; the Release workflow fills in version and sha256.
 cask "displaydeck" do
-  version "1.6"
-  sha256 "115ce47c8d222cf628abe84857170f71f027ff77c857eb457600f83b7e3e582a"
+  version "1.7"
+  sha256 "d53c890eca77e458f5fcd16e5da26c80dae5664c712bc5be375cf3a43cf406e1"
 
   url "https://github.com/rahgurung/DisplayDeck/releases/download/v#{version}/DisplayDeck-#{version}.dmg"
   name "DisplayDeck"
